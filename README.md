@@ -1,4 +1,4 @@
-# MSFConsole Multi Handler Exploit Listener Starter 
+# MSFConsole Multi-Handler Exploit Listener Starter 
 This batch script is basically a shortcut to run a listener in msfconsole using exploit/multi/handler.
 
 ## Usage
